@@ -1,3 +1,23 @@
 # Arquivos C
 ## Nesse repositório há atividades/arquivos relacionados a linguagem C, que foi aprendida no 1º Semestre de aula do curso de Desenvolvimento de Sistemas
-  
+  - ### Atividades Gerais C
+      - [Atividade 1](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE1.c) - Número Par ou Ímpar
+- [Atividade 2](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE2.c) - Qual o maior e o menor número
+- [Atividade 3](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE3.c) - Aprovado ou Reprovado
+- [Atividade 4](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE4.c) - Opção de Voto
+- [Atividade 5](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE5.c) - Calculadora com switch/case
+- [Atividade 6](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE6.c) - Contador de 1 a 100 (1 a 1)
+- [Atividade 7](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE7.c) - Tabuada do numero escolhido
+- [Atividade 8](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE8.c) - Contador de 0 a 200 (2 em 2)
+- [Atividade 9](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE9.c) - Calculadora Simples(Soma e Subtração), com opção de Sair ou Voltar
+- [Atividade 10](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE10.c) - Calculo de fatorial
+- [Atividade 11](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE11.c) - Calculo média de 10 números
+- [Atividade 12](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE12.c) - Maior e menor numero de 10 números digitados
+- [Atividade 13](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE13.c) - Contagem de 10 números pares digitados
+- [Atividade 14](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE14.c) - Imprimindo de forma invertida(ao contrario) os números digitados
+- [Atividade 15](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE15.c) - Cadastro do aluno e impressão das suas informações (com struct)
+- [Atividade 16](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE16.c) - Cadastro de 5 produtos (struct) e valor final do gasto com os produtos cadastrados
+- [Atividade 17](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE17.c) - Cadastro de 2 pessoas (struct) e comparação de idade
+- [Atividade 18](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE18.c) - Struct com nome e 3 notas. Calcule a média e informe se foi aprovado
+- [Atividade 19](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE19.c) - Cadastro de 3 alunos (struct) se pedir um nome mostre os dados se encontrar
+- [Atividade 20](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE20.c) - Cadastra 5 alunos (nome e média final) e mostra a média geral da turma
