@@ -11,8 +11,9 @@ int main() {
         printf("Digite um número: ");
         scanf("%d", &num[i]);
     }
-    for(i = 5; i > 0; i++){
+    for(i = 5; i > 0; i--){
     	printf("%d", num[i]);
 	}
     return 0;
 }
+
