@@ -1,4 +1,4 @@
-# Arquivos C
+# Exercicios C
 ## Nesse repositório há atividades/arquivos relacionados a linguagem C, que foi aprendida no 1º Semestre de aula do curso de Desenvolvimento de Sistemas
   - ### Atividades Gerais C
       - [Atividade 1](https://github.com/nickfelisbelo/ExerciciosC/blob/main/Atividades%20Gerais%20C/ATIVIDADE1.c) - Número Par ou Ímpar
